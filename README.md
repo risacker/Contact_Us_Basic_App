@@ -1,6 +1,6 @@
-# contact
+# Contact_US
 
-A new Flutter application.
+A Basic Flutter application.
 
 ## Getting Started
 
