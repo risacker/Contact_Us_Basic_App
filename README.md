@@ -1,5 +1,3 @@
 # Contact Us
 
-A Basic Flutter application.
-
-
+A Basic app which is built in Flutter.
